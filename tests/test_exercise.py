@@ -18,7 +18,7 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert [output[0],output[1],output[2],output[3],output[4],output[5]] == ["How many times?",\
+    assert [output[0],output[1],output[2],output[3],output[4]] == ["How many times?",\
                                                                             "In a hole in the ground there lived a method",\
                                                                             "In a hole in the ground there lived a method",\
                                                                             "In a hole in the ground there lived a method",\
